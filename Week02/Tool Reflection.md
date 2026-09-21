@@ -3,7 +3,11 @@
 >what you would use if this things did not exist
 
 The tool I use very nearly daily is an app called "XunJi".Basically, it’s an app that helps me log my gym sessions and build training plans. I can easily view my training laid out in a weekly schedule. This helps me understand my training progress better and also motivates me to work out more just to fill up that weekly schedule.
+
+
 ![Weekly training schedule in XunJi](<Pasted image 20260921153231.png>)
+
+
 <img alt="Exercise library page of XunJi" src="IMG_0228.png" width="250">
 
 
@@ -24,6 +28,8 @@ But as I went to the gym more often, I got more familiar with exercises for each
 I fell in love with the app after using it for a while. The only downside is that features for logging meals and calculating calories sit behind a paywall. Since I didn’t want to pay for that, I track my diet separately in another app.
 
 **what I would use if this things did not exist**
+
+
 As I mentioned earlier, I used my phone’s Notes app before I found XunJi. But as I kept training, logging new workouts in Notes got more and more tedious, and there was no simple weekly view to see my training patterns. Even without this app, I could still use my phone’s built-in Calendar. I can assign different categories with distinct colors, so I can easily spot my gym sessions alongside all my other calendar events. I tested this: I created a purple category just for training entries. For detailed workout notes, I can write everything inside the event description. If I use the same title for training the same muscle group next time, I can directly copy the whole previous entry including its notes. This function is actually the most important part for me. I don’t stick to fixed training days for specific muscle groups, so being able to copy my last workout log for that body part easily matters the most.
 
 With that in mind, XunJi’s truly irreplaceable features are the exercise GIFs and the set rest timer. Of course, logging weights and reps is more straightforward in XunJi too, since it’s purpose-built for gym tracking.
