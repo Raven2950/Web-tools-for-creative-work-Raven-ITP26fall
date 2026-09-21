@@ -4,7 +4,7 @@
 
 The tool I use very nearly daily is an app called "XunJi".Basically, it’s an app that helps me log my gym sessions and build training plans. I can easily view my training laid out in a weekly schedule. This helps me understand my training progress better and also motivates me to work out more just to fill up that weekly schedule.
 ![Weekly training schedule in XunJi](<Pasted image 20260921153231.png>)
-![Screenshot of XunJi](IMG_0228.png)
+<img alt="Exercise library page of XunJi" src="IMG_0228.png" width="250">
 But this isn’t the main reason I like the app. I could technically track everything in my iPhone Calendar too, but I prefer not to. My calendar already has my class schedule and lots of other stuff. I like separating different activities into different apps, especially routine things like attending classes and going to the gym. The main reason I love it is its library of workout exercises. I can pick movements right inside the app, and each one comes with GIFs and PNG diagrams. I can instantly tell what an exercise looks like without searching online, which is handy when I just blank on the name. It also shows the weight I lifted in previous sessions, so I know exactly how much to load up even if I haven’t done that exercise in a long time. It can also track whether I’ve made progress. For example, if I can’t lift the same weight I used to, it may hint I need to hit the gym more often. Once I finish each exercise, it starts a rest timer for my sets. This stops me from zoning out or scrolling on my phone and losing track of my rest period. Even with this timer though, sometimes I still end up scrolling for way too long.
 ![Screenshot of XunJi](IMG_0229.png)
 
