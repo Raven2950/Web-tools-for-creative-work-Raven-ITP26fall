@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>p5 Webcam Filter</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+  <style>
+    body {
+      background: #f5f2eb;
+      font-family: sans-serif;
+      padding: 24px;
+      margin: 0;
+    }
+    canvas {
+      border: 1px solid #ddd;
+    }
+    #layout { display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap; }
+    #camera-col, #dude-col { flex: none; }
+    #dude-col { width: 340px; }
+    #photo-canvas { display: block; width: 320px; height: 240px; margin: 8px 0; cursor: crosshair; touch-action: none; }
+    #dude-row { display: flex; gap: 16px; align-items: flex-start; margin-top: 12px; }
+    #dude-preview {
+      flex: none;
+      width: 160px;
+      height: 200px;
+      image-rendering: pixelated;
+      background: repeating-conic-gradient(#e6e1d6 0% 25%, #fff 0% 50%) 0 0 / 16px 16px;
+    }
+    #dude-ui > div { margin-bottom: 6px; }
+    #dude-ui button { margin: 4px 6px 0 0; }
+  </style>
+</head>
+<body>
+  <div id="layout">
+    <div id="camera-col"></div>
+    <div id="dude-col"></div>
+  </div>
+  <script src="sketch.js"></script>
+</body>
+</html>
